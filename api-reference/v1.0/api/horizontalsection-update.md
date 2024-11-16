@@ -60,7 +60,7 @@ Content-Type: application/json
 
 {
   "emphasis": "strong",
-  "layout": "twoColumns",
+  "layout": "twoColumns"
 }
 ```
 
